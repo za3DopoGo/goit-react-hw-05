@@ -1,0 +1,38 @@
+.detailContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.movieDetails {
+  padding: 10px;
+}
+
+.name {
+  margin-bottom: 20px;
+}
+.genres {
+  margin-bottom: 20px;
+}
+.overview {
+  margin-bottom: 20px;
+}
+.budget {
+  margin-bottom: 20px;
+}
+.revenue {
+  margin-bottom: 20px;
+}
+.detbtn {
+  padding: 10px 20px 10px 20px;
+  color: aliceblue;
+  font-size: 16px;
+  background-color: transparent;
+  text-align: center;
+  background-color: rgb(43, 109, 180);
+  border-radius: 10px;
+  display: inline-flex;
+  margin-right: 20px;
+  margin-top: 20px;
+}

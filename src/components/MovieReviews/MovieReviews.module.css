@@ -1,0 +1,14 @@
+.revItem {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+.author {
+  margin-bottom: 10px;
+}
+.sorr {
+  font-size: 20px;
+  margin-top: 15px;
+}
